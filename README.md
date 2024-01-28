@@ -23,12 +23,12 @@ Before running the application, make sure you have the following installed:
 
 ## Install dependencies:
 
-      ```bash
+   ```bash
        pip install boto3
 
 ## Configure AWS CLI:
-         ```bash
-         aws configure
+```bash
+   aws configure
 
 ## Run the application:
       ```bash
