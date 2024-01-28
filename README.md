@@ -23,19 +23,16 @@ Before running the application, make sure you have the following installed:
 
 ## Install dependencies:
 
-    ```bash
-
-    pip install boto3
+      ```bash
+       pip install boto3
 
 ## Configure AWS CLI:
-
-    ```bash
-    
-    aws configure
+         ```bash
+         aws configure
 
 ## Run the application:
-    ```bash
-    python translator_app.py
+      ```bash
+       python translator_app.py
     
 # Configuration
 Make sure to configure your AWS credentials and region in the AWS CLI. Also, ensure that your IAM user has the necessary permissions to access the Translate service.
