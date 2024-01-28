@@ -22,16 +22,12 @@ Before running the application, make sure you have the following installed:
    git clone https://github.com/Sinanm94/AWS-Translator-App.git
 
 ## Install dependencies:
-
-   ```bash
-       pip install boto3
+          pip install boto3
 
 ## Configure AWS CLI:
-```bash
-   aws configure
+         aws configure
 
 ## Run the application:
-      ```bash
        python translator_app.py
     
 # Configuration
